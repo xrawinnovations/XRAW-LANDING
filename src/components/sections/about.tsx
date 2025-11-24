@@ -40,11 +40,11 @@ export default function About() {
 
   return (
     <section className="flex justify-center px-6 sm:px-8 lg:px-12 py-24 bg-white">
-      <div className="w-full max-w-[1400px]">
+      <div className="w-full max-w-[1300px]">
         
         {/* Header */}
         <div className="mb-24">
-          <h2 className="text-5xl sm:text-6xl lg:text-7xl font-light text-slate-900 mb-6 tracking-tight">
+          <h2 className="text-4xl sm:text-6xl lg:text-6xl font-light text-slate-900 mb-6 tracking-tight">
             About Us
           </h2>
           <p className="text-xl sm:text-2xl text-slate-600 font-light leading-relaxed max-w-4xl">

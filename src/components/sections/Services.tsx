@@ -36,7 +36,7 @@ export default function Services() {
     <section className="min-h-screen flex justify-center py-24 bg-white">
       <div className="w-full max-w-[1400px] px-6 sm:px-8 lg:px-12">
         {/* Header Section - Minimalist */}
-        <div className="mb-24 max-w-2xl">
+        <div className="mb-24 max-w-4xl">
           <h2 className="text-4xl sm:text-5xl lg:text-6xl font-light text-slate-900 mb-6 tracking-tight">
             Services
           </h2>

@@ -1,6 +1,6 @@
 import Footer from '@/components/layout/Footer';
 import Navbar from '@/components/layout/Navbar';
-import CustomerReviews from '@/components/sections/CustomerReviews';
+import Contact from '@/components/sections/contact';
 
 export default function HomePage() {
   return (
@@ -8,7 +8,7 @@ export default function HomePage() {
       <Navbar />
       <div className="pt-20"> {/* Add padding-top to account for fixed navbar */}
      
-        <CustomerReviews />
+        < Contact/>
       </div>
       <Footer />
     </main>

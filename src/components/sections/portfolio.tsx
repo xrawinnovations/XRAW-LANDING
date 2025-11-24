@@ -153,8 +153,8 @@ export default function Portfolio() {
 
 
   return (
-    <section className="flex justify-center px-6 sm:px-8 lg:px-12 py-24 bg-white">
-      <div className="w-full max-w-[1400px]">
+    <section className="flex justify-center px-6 sm:px-8 lg:px-12 py-40 bg-white">
+      <div className="w-full max-w-[1300px]">
         
         {/* Header */}
         <div className="mb-16">
@@ -165,6 +165,7 @@ export default function Portfolio() {
             Real-world success stories showcasing how our AI solutions transform businesses
           </p>
         </div>
+
 
         {/* Accordion Cards */}
         <div className="grid md:grid-cols-2 gap-8">
