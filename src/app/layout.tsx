@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'XRAW Innovations - AI Solutions | Sri Lanka',
+  title: 'XRAW Innovations',
   description: 'We build AI Agents,AI chatbots, automation systems, and custom software.',
   openGraph: {
     images: ['/og-image.jpg'],
