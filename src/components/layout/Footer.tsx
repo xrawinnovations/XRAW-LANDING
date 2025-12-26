@@ -99,15 +99,14 @@ export default function Footer() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
               <address className="text-slate-600 font-light not-italic leading-relaxed">
-                1/13A, Kanagarathna Place<br />
-                Moratuwa, Sri Lanka<br />
-                10400
+                Colombo<br />
+                Western Provience, Sri Lanka<br />
               </address>
             </div>
           </div>
 
         </div>
-
+              
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-slate-200">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
