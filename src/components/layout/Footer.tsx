@@ -90,7 +90,7 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Location */}
+          /* {/* Location */}
           <div className="lg:col-span-3 space-y-6">
             <h4 className="text-slate-900 font-light text-2xl mb-8">Location</h4>
             <div className="flex items-start gap-3">
@@ -104,7 +104,7 @@ export default function Footer() {
                 10400
               </address>
             </div>
-          </div>
+          </div> */
 
         </div>
 
